@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/build/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
